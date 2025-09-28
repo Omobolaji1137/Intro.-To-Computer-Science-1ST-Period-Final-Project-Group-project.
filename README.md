@@ -1,0 +1,2 @@
+# Intro.-To-Computer-Science-1ST-Period-Final-Project-Group-project.
+A new repository contains the Final project "Tic -Tac-Toe game in Jupyter notebook in python.  The project activity is a two-player game and consists of a name-square grid. Each player chooses their move and with O or X and marks their square one at each chance. The player who succeeds in making their marks all in one whether diagonally ,horizontallyor vertical wins. 
